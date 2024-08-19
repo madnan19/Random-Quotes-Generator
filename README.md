@@ -18,7 +18,7 @@ The Random Quote Generator is designed to provide users with a source of motivat
 
 To use the Random Quote Generator:
 
-1. Visit the [Live Demo]([https://eman289.github.io/Random-Quotes-App/](https://github.com/madnan19/Random-Quotes-Generator/).
+1. Visit the [Live Demo](https://github.com/madnan19/Random-Quotes-Generator/).
 2. Click the "New Quote" button to display a random quote along with its author's name.
 3. Enjoy the motivational and thought-provoking quotes!
 
